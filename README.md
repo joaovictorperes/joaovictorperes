@@ -1,6 +1,8 @@
-### Hi there 👋
+### Olá 👋
 
-- 🌱 Atualmente estudando HTML, CSS e JavaScript.
+Formado em ADS pela Fatec-Franca e Desenvolvedor Front-end com grande atuação em e-commerce, atualmente participo ativamente na otimização dos fluxos de compra (carrinho e checkout) e na personalização de temas responsivos que traduzem a identidade visual do cliente sem comprometer a experiência do usuário.
+
+Também possuo experiência em backend (PHP/MySQL) e QA, seja em habilidades de revisão de código e mapeamento de fluxos críticos para garantir a qualidade de software em qualquer projeto ou no desenvolvimento de soluções que envolvam grande volume de dados e usuários, reduzindo regressões e acelerando entregas.
 
 <div>
   <a href="https://github.com/joaovictorperes">
